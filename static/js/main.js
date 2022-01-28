@@ -1982,7 +1982,7 @@
                             d.default.createElement("div", { className: "center" },
                                 d.default.createElement("div", { className: "logo" }, "HQ ICON"),
                                 d.default.createElement("div", { className: "description" }, "从 App Store 获取应用图标"),
-                                d.default.createElement("div", { className: "description1" }, "Get icons from App Store"),
+                                d.default.createElement("div", { className: "description1" }, "基于HQ ICON开源项目修改美化"),
                                 d.default.createElement("div", { className: "options" },
                                     d.default.createElement("lable", { onClick: function() { return e.setState({ country: "CN" }) } },
                                         d.default.createElement("input", { name: "store", type: "radio", checked: "CN" === o }), "中国 / CN"),
@@ -2002,7 +2002,7 @@
                         d.default.createElement("main", { className: "results" }, r.map(function(e) {
                             return d.default.createElement(h.default, { key: e.trackId, data: e, resolution: i })
                         })),
-                        d.default.createElement("footer", { className: "footer" }, "Copyrights © 2021 - 浙ICP备2021010095号", ))
+                        d.default.createElement("footer", { className: "footer" }, "Copyrights © 2022  鄂ICP备2021008137号", ))
                 }
             }]), t
         }(p.Component);
