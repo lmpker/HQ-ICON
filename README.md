@@ -1,5 +1,5 @@
 ### HQ ICON 美化版
-**原版项目地址仓库[HQ-ICON](https://github.com/YuKongA/HQ-ICON)**、
+**原版项目仓库地址[HQ-ICON](https://github.com/YuKongA/HQ-ICON)**、
 <br/>
 仅对前端功能进行修改
 <br/>
