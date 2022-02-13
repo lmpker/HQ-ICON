@@ -1980,16 +1980,16 @@
                     return d.default.createElement("div", { className: "app" },
                         d.default.createElement("header", null,
                             d.default.createElement("div", { className: "center" },
-                                d.default.createElement("div", { className: "logo" }, "HQ ICON"),
+                                d.default.createElement("div", { className: "logo" }, "HQ ICON美化版"),
                                 d.default.createElement("div", { className: "description" }, "从 App Store 获取应用图标"),
                                 d.default.createElement("div", { className: "description1" }, "基于HQ ICON开源项目修改美化"),
                                 d.default.createElement("div", { className: "options" },
                                     d.default.createElement("lable", { onClick: function() { return e.setState({ country: "CN" }) } },
-                                        d.default.createElement("input", { name: "store", type: "radio", checked: "CN" === o }), "中国 / CN"),
+                                        d.default.createElement("input", { name: "store", type: "radio", checked: "CN" === o }), "中国"),
                                     d.default.createElement("lable", { onClick: function() { return e.setState({ country: "US" }) } },
-                                        d.default.createElement("input", { name: "store", type: "radio", checked: "US" === o }), "美国 / US"),
+                                        d.default.createElement("input", { name: "store", type: "radio", checked: "US" === o }), "美国"),
                                     d.default.createElement("lable", { onClick: function() { return e.setState({ country: "JP" }) } },
-                                        d.default.createElement("input", { name: "store", type: "radio", checked: "JP" === o }), "日本 / JP")),
+                                        d.default.createElement("input", { name: "store", type: "radio", checked: "JP" === o }), "日本")),
                                 d.default.createElement("div", { className: "options" },
                                     d.default.createElement("lable", { onClick: function() { return e.setState({ resolution: 512 }) } },
                                         d.default.createElement("input", { name: "resolution", type: "radio", checked: 512 === i }), "512px"),
@@ -2002,7 +2002,7 @@
                         d.default.createElement("main", { className: "results" }, r.map(function(e) {
                             return d.default.createElement(h.default, { key: e.trackId, data: e, resolution: i })
                         })),
-                        d.default.createElement("footer", { className: "footer" }, "Copyrights © 2022  鄂ICP备2021008137号", ))
+                        d.default.createElement("footer", { className: "footer" }, "Copyrights © 2022 鄂ICP备2021008137号", ))
                 }
             }]), t
         }(p.Component);
