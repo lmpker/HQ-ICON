@@ -2002,7 +2002,7 @@
                         d.default.createElement("main", { className: "results" }, r.map(function(e) {
                             return d.default.createElement(h.default, { key: e.trackId, data: e, resolution: i })
                         })),
-                        d.default.createElement("footer", { className: "footer" }, "Copyrights © 2022 鄂ICP备2021008137号", ))
+                        d.default.createElement("footer", { className: "footer" }, "邮箱:mocehu@foxmail.com", ))
                 }
             }]), t
         }(p.Component);
