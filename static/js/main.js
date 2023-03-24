@@ -1982,7 +1982,7 @@
                             d.default.createElement("div", { className: "center" },
                                 d.default.createElement("div", { className: "logo" }, "HQ ICON美化版"),
                                 d.default.createElement("div", { className: "description" }, "从 App Store 获取应用图标"),
-                                d.default.createElement("div", { className: "description1" }, "基于HQ ICON开源项目修改美化"),
+                                d.default.createElement("div", { className: "description1" }, "基于<a herf="https://icon.yukonga.top/">HQ ICON</a>开源项目修改美化"),
                                 d.default.createElement("div", { className: "options" },
                                     d.default.createElement("lable", { onClick: function() { return e.setState({ country: "CN" }) } },
                                         d.default.createElement("input", { name: "store", type: "radio", checked: "CN" === o }), "中国"),
